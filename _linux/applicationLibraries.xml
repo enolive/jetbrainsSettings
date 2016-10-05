@@ -291,6 +291,37 @@
         <root url="file:///var/lib/gems/2.3.0/gems/param_test-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.12 (/usr/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
+        <root url="file:///mnt/HomeExt/evil-one/.IntelliJIdea/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
+        <root url="file:///mnt/HomeExt/evil-one/.IntelliJIdea/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="rake (v11.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rake-11.2.2/bin" />
