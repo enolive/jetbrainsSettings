@@ -1,0 +1,22 @@
+<keymap version="1" name="Based on Resharper" parent="Default for GNOME">
+  <action id="Arrangement.Rule.Edit" />
+  <action id="GotoNextError" />
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
