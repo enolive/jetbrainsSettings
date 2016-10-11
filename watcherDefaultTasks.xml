@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/mnt/HomeExt/evil-one/Coding/learning/javascript/FizzBuzz/node_modules/babel-cli/bin/babel.js" />
+      <option name="program" value="/mnt/HomeExt/evil-one/Coding/learning/javascript/FizzBuzz/node_modules/.bin/babel" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
