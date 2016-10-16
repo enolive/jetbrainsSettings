@@ -229,6 +229,7 @@
     </library>
     <library name="json (v2.0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/data" />
@@ -239,6 +240,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/data" />
