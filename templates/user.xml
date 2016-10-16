@@ -1,9 +1,0 @@
-<templateSet group="user">
-  <template name="paramtest" value="@parameterized.expand([])&#10;def test_$Scenario$_should_$ExpectedResult$(self, number, expected):&#10;    # act&#10;    $END$&#10;    # assert&#10;" description="Parametrized Python Test Stub" toReformat="false" toShortenFQNames="true">
-    <variable name="Scenario" expression="" defaultValue="scenario" alwaysStopAt="true" />
-    <variable name="ExpectedResult" expression="" defaultValue="expected" alwaysStopAt="true" />
-    <context>
-      <option name="Python_Class" value="true" />
-    </context>
-  </template>
-</templateSet>
