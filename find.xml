@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'FizzBuzzWithMaven'" />
-    <option name="defaultScopeName" value="Project 'FizzBuzzWithMaven'" />
-    <option name="SEARCH_SCOPE" value="Project 'FizzBuzzWithMaven'" />
+    <option name="customScope" value="Project 'RomanNumbers'" />
+    <option name="defaultScopeName" value="Project 'RomanNumbers'" />
+    <option name="SEARCH_SCOPE" value="Project 'RomanNumbers'" />
   </component>
 </application>
