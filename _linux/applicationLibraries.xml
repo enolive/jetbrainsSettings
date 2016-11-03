@@ -7,7 +7,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.2/man" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.2/exe" />
@@ -21,7 +20,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
@@ -32,7 +30,6 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/docile-1.1.5/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/docile-1.1.5/lib" />
       </SOURCES>
@@ -46,7 +43,6 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="json (v2.0.2, ruby-2.3.1-p112) [gem]">
@@ -61,7 +57,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/diagrams" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/references" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/ext" />
@@ -74,11 +69,21 @@
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/references" />
       </SOURCES>
     </library>
+    <library name="lodash-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="rspec (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-3.5.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-3.5.0/lib" />
       </SOURCES>
@@ -88,7 +93,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
@@ -98,7 +102,6 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
@@ -107,7 +110,6 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
@@ -116,27 +118,15 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.11.8" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.11.8">
       <CLASSES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.8-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.8-javadoc.jar!/" />
-      </JAVADOC>
       <SOURCES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
@@ -147,7 +137,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-0.12.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-0.12.0/features" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-0.12.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-0.12.0/features" />
@@ -160,7 +149,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/assets" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/views" />
