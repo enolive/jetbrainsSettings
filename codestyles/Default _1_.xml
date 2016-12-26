@@ -1,0 +1,29 @@
+<code_scheme name="Default (1)">
+  <codeStyleSettings language="Scala">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
+        </group>
+        <group>
+          <type>SCALA_KEEP_JAVA_GETTERS_SETTERS_TOGETHER</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>SCALA_KEEP_SCALA_GETTERS_SETTERS_TOGETHER</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>SCALA_SPLIT_BY_EXPRESSIONS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
+</code_scheme>
