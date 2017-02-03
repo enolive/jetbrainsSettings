@@ -710,6 +710,24 @@
         <root url="file:///var/lib/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.7.0.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="numerizer (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/numerizer-0.1.1/lib" />
