@@ -5,6 +5,7 @@
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
+    <option name="USE_PUBLIC_MODIFIER" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </TypeScriptCodeStyleSettings>
