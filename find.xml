@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fizzbuzz-reloaded'" />
-    <option name="defaultScopeName" value="Project 'fizzbuzz-reloaded'" />
-    <option name="SEARCH_SCOPE" value="Project 'fizzbuzz-reloaded'" />
+    <option name="customScope" value="File '[why-tdd] - .../why-tdd.md'" />
+    <option name="defaultScopeName" value="File '[why-tdd] - .../why-tdd.md'" />
+    <option name="SEARCH_SCOPE" value="File '[why-tdd] - .../why-tdd.md'" />
   </component>
 </application>
