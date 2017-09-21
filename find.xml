@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'demo-kata-jest'" />
-    <option name="defaultScopeName" value="Project 'demo-kata-jest'" />
-    <option name="SEARCH_SCOPE" value="Project 'demo-kata-jest'" />
+    <option name="customScope" value="Project 'roman-numbers-reverse'" />
+    <option name="defaultScopeName" value="Project 'roman-numbers-reverse'" />
+    <option name="SEARCH_SCOPE" value="Project 'roman-numbers-reverse'" />
   </component>
 </application>
