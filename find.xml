@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'demo-kata'" />
-    <option name="defaultScopeName" value="Project 'demo-kata'" />
-    <option name="SEARCH_SCOPE" value="Project 'demo-kata'" />
+    <option name="customScope" value="Project 'fizzbuzz-outside-in'" />
+    <option name="defaultScopeName" value="Project 'fizzbuzz-outside-in'" />
+    <option name="SEARCH_SCOPE" value="Project 'fizzbuzz-outside-in'" />
   </component>
 </application>
