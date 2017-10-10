@@ -799,6 +799,20 @@
         <root url="file:///var/lib/gems/2.3.0/gems/psych-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v1.5.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/contrib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/contrib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-1.5.2/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rack-2.0.1/bin" />
@@ -811,6 +825,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rack-2.0.1/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/rack-2.0.1/contrib" />
         <root url="file:///var/lib/gems/2.3.0/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-protection-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-protection-1.5.2/lib" />
       </SOURCES>
     </library>
     <library name="rails (v5.0.1, ruby-2.3.1-p112) [gem]">
@@ -1139,6 +1161,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/thread_safe-0.3.5/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/thread_safe-0.3.5/tasks" />
         <root url="file:///var/lib/gems/2.3.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/tilt-1.4.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/tilt-1.4.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="touch-emulator" type="javaScript">
