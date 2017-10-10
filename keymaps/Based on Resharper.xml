@@ -1,6 +1,17 @@
 <keymap version="1" name="Based on Resharper" parent="Default for GNOME">
   <action id="Arrangement.Rule.Edit" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
+  <action id="GotoBookmark7" />
   <action id="GotoNextError" />
+  <action id="GotoSuperMethod" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -14,6 +25,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl l" />
+  </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -32,6 +46,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark7" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
