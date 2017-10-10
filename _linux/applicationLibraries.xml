@@ -850,6 +850,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/railties-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-10.1.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-10.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-10.1.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-10.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v11.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rake-11.2.2/bin" />
@@ -908,6 +918,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v2.14.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.14.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-3.5.0/lib" />
@@ -926,6 +944,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.11.1/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.11.1/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.11.1/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v2.14.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.14.7/features" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.5.4, ruby-2.3.1-p112) [gem]">
@@ -948,6 +978,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.11.3/features" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v2.14.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.14.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.14.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.14.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.14.4/features" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
@@ -964,6 +1004,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.11.3/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.11.3/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v2.14.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.14.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.14.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.14.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.14.4/features" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.5.0, ruby-2.3.1-p112) [gem]">
@@ -1096,6 +1146,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/views" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/assets" />
         <root url="file:///var/lib/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v1.4.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sinatra-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sinatra-1.4.4/lib" />
       </SOURCES>
     </library>
     <library name="spec (v5.3.4, ruby-2.3.1-p112) [gem]">
