@@ -81,6 +81,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'Diamond kata.Outside-in tests.should fail for invalid input'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>Synchronize</IdeaActionID>
@@ -103,6 +111,14 @@
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Strg+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
