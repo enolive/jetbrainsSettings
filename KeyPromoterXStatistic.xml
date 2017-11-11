@@ -6,7 +6,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -62,7 +62,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'All Tests'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run all tests'">
@@ -110,7 +110,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run all tests'">
@@ -134,7 +134,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
