@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Strg+B' or 'Strg+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -206,7 +206,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'Nosetests in test'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run all tests'">
@@ -262,7 +262,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
