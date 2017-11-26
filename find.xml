@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fizzbuzz-outside-in'" />
-    <option name="defaultScopeName" value="Project 'fizzbuzz-outside-in'" />
-    <option name="SEARCH_SCOPE" value="Project 'fizzbuzz-outside-in'" />
+    <option name="customScope" value="Project 'rock-paper-scissors'" />
+    <option name="defaultScopeName" value="Project 'rock-paper-scissors'" />
+    <option name="SEARCH_SCOPE" value="Project 'rock-paper-scissors'" />
   </component>
 </application>
