@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -294,7 +294,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Umschalt+F10'</ShortCut>
           <Description>Run 'src'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -302,7 +302,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
@@ -391,6 +391,14 @@
           <ShortCut>'Strg+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Strg+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
