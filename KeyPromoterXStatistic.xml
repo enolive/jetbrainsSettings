@@ -6,7 +6,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'Strg+F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -15,14 +15,6 @@
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
           <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Strg+C' or 'Strg+Einfg'</ShortCut>
-          <Description>Copy</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -81,14 +73,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Hide All Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'Strg+Umschalt+F12'</ShortCut>
-          <Description>Hide All Windows</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Home Directory">
         <Item>
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
@@ -118,7 +102,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -145,12 +129,44 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Mocha Tests without Babel'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'Mocha Tests without Babel'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Mocha Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'Mocha Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Mocha tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'Mocha tests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Nosetests in test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'Nosetests in test'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Robot'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'Robot'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run all tests'">
@@ -230,7 +246,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>16</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All tests + features'">
@@ -249,12 +265,36 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'BowlingTests'">
+      <Statistic Action="Run 'Greeter.should greet the world'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Umschalt+F10'</ShortCut>
-          <Description>Run 'BowlingTests'</Description>
+          <Description>Run 'Greeter.should greet the world'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Mocha Tests without Babel'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Mocha Tests without Babel'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Mocha Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Mocha Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Mocha tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Mocha tests'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Nosetests in test'">
@@ -263,6 +303,14 @@
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'Nosetests in test'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Robot'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Robot'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run all tests'">
@@ -326,6 +374,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Umschalt+F10'</ShortCut>
           <Description>Run 'start'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Strg+S'</ShortCut>
+          <Description>Save All</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -334,7 +390,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>28</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
@@ -345,12 +401,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Mocha tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'Mocha tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Nosetests for tests.bowling_tests.BowlingTests.test_gutter_game'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'Nosetests for tests.bowling_tests.BowlingTests.test_gutter_game'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Robot'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'Robot'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'build'">
@@ -390,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -398,7 +470,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -406,7 +478,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -422,7 +494,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>30</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -438,6 +510,14 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Strg+T'</ShortCut>
           <Description>Update Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9'</ShortCut>
+          <Description>Version Control</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
