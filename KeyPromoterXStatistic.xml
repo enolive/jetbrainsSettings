@@ -17,6 +17,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Strg+C' or 'Strg+Einfg'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cut">
         <Item>
           <IdeaActionID>$Cut</IdeaActionID>
