@@ -6,7 +6,7 @@
           <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
           <ShortCut>'Alt+Einfg'</ShortCut>
           <Description>Add rule</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -87,6 +87,22 @@
           <ShortCut>'Strg+1'</ShortCut>
           <Description>Home Directory</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move down">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Down</IdeaActionID>
+          <ShortCut>'Alt+Unten'</ShortCut>
+          <Description>Move down</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move up">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
+          <ShortCut>'Alt+Oben'</ShortCut>
+          <Description>Move up</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -246,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -262,7 +278,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -271,6 +287,14 @@
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in yahtzee_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'All in yahtzee_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All tests + features'">
@@ -422,7 +446,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -479,6 +503,14 @@
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'Robot'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'YahtzeeTest.it_should_score_single_pair'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'YahtzeeTest.it_should_score_single_pair'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'build'">
@@ -558,7 +590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Strg+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
