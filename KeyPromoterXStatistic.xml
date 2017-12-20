@@ -6,7 +6,7 @@
           <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
           <ShortCut>'Alt+Einfg'</ShortCut>
           <Description>Add rule</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -110,7 +110,7 @@
           <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
           <ShortCut>'Alt+Oben'</ShortCut>
           <Description>Move up</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -143,6 +143,14 @@
           <ShortCut>'Strg+Alt+Umschalt+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove rule(s)">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Remove</IdeaActionID>
+          <ShortCut>'Löschen'</ShortCut>
+          <Description>Remove rule(s)</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -159,6 +167,14 @@
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'All Tests'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in yahtzee_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'All in yahtzee_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FizzBuzzTest'">
@@ -454,7 +470,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>31</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
