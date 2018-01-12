@@ -110,7 +110,7 @@
           <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
           <ShortCut>'Alt+Oben'</ShortCut>
           <Description>Move up</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -166,7 +166,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'All Tests'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in yahtzee_test'">
@@ -478,7 +478,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
