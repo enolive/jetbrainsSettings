@@ -174,7 +174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'All Tests'</Description>
-          <Count>14</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in yahtzee_test'">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -334,7 +334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in yahtzee_test'">
@@ -505,6 +505,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sum-of-multiples.test.ts'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'sum-of-multiples.test.ts'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'All Tests'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
