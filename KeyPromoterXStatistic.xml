@@ -377,6 +377,14 @@
           <Count>38</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Acronym are produced from'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Acronym are produced from'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All Tests'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
