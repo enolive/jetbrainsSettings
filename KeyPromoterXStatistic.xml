@@ -542,7 +542,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Umschalt+F10'</ShortCut>
           <Description>Run 'Tests for RX'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests with Mocha'">
@@ -830,7 +830,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -846,7 +846,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
