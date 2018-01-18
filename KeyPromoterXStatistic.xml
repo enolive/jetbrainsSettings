@@ -577,6 +577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'bin/www'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'bin/www'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'dead_cell.feature'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
