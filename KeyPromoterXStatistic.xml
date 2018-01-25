@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
