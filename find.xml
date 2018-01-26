@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'rock-paper-scissors'" />
-    <option name="defaultScopeName" value="Project 'rock-paper-scissors'" />
-    <option name="SEARCH_SCOPE" value="Project 'rock-paper-scissors'" />
+    <option name="customScope" value="Directory '.../src [fizz-buzz]'" />
+    <option name="defaultScopeName" value="Directory '.../src [fizz-buzz]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [fizz-buzz]'" />
   </component>
 </application>
