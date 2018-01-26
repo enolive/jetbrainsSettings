@@ -12,5 +12,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>

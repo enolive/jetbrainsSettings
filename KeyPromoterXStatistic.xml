@@ -377,6 +377,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Spring Boot'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Rerun 'Spring Boot'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Tests with Mocha'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>73</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Acronym are produced from'">
@@ -830,7 +838,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>61</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -854,7 +862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Diamond kata.Outside-in tests.should fail for invalid input'">
@@ -1030,7 +1038,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
