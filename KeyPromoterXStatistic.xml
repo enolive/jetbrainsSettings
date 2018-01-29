@@ -1057,6 +1057,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'spring [bootRun]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'spring [bootRun]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
