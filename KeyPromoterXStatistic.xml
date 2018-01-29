@@ -550,7 +550,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Acronym are produced from'">
@@ -703,6 +703,14 @@
           <ShortCut>'Umschalt+F10'</ShortCut>
           <Description>Run 'Run all tests'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Spring Boot'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Umschalt+F10'</ShortCut>
+          <Description>Run 'Spring Boot'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests for RX'">
@@ -870,7 +878,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>68</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
