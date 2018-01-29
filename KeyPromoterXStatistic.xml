@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Alt+Umschalt+Links' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -31,6 +39,14 @@
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Convert Java File to Kotlin File">
+        <Item>
+          <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
+          <ShortCut>'Strg+Alt+Umschalt+K'</ShortCut>
+          <Description>Convert Java File to Kotlin File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -382,7 +398,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'Spring Boot'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Tests with Mocha'">
@@ -518,7 +534,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>76</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Acronym are produced from'">
@@ -929,6 +945,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Spring Boot'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'Spring Boot'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Word Problem'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -966,6 +990,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'dead_cell.feature:Dead cell with 3 neighbors comes to life'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'hello.Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'hello.Application'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1038,7 +1070,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>26</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
