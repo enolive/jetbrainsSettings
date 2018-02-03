@@ -6,7 +6,7 @@
           <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
           <ShortCut>'Alt+Einfg'</ShortCut>
           <Description>Add rule</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Alt+Umschalt+Links' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Strg+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -142,7 +142,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Umschalt+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate from Swagger">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Strg+B' or 'Strg+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -214,7 +214,7 @@
           <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
           <ShortCut>'Alt+Oben'</ShortCut>
           <Description>Move up</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+Umschalt+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -262,7 +262,7 @@
           <IdeaActionID>Arrangement.Rule.Remove</IdeaActionID>
           <ShortCut>'Löschen'</ShortCut>
           <Description>Remove rule(s)</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -425,14 +425,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'The test environment'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Strg+F5'</ShortCut>
-          <Description>Rerun 'The test environment'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'Transform'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -558,7 +550,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>98</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Acronym are produced from'">
@@ -574,7 +566,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in yahtzee_test'">
