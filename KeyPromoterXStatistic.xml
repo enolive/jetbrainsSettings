@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Strg+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+Umschalt+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -423,14 +423,6 @@
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Rerun 'Tests with Mocha'</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'The test environment'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Strg+F5'</ShortCut>
-          <Description>Rerun 'The test environment'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Transform'">
@@ -886,7 +878,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>78</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1126,7 +1118,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>107</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
