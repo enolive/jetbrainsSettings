@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="Test.Fact" value="[Fact]&#10;public void $Scenario$Should$ExpectedResult$()&#10;{&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="Test.Fact" value="[Fact]&#10;public void $Scenario$Should$ExpectedResult$()&#10;{&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="Scenario" expression="" defaultValue="ScenarioName" alwaysStopAt="true" />
     <variable name="ExpectedResult" expression="" defaultValue="ExpectedResult" alwaysStopAt="true" />
     <context>
