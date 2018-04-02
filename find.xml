@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../RockPaperScissors/Game.cs'" />
-    <option name="defaultScopeName" value="File '.../RockPaperScissors/Game.cs'" />
+    <option name="customScope" value="File '.../RockPaperScissors.MetaTest/GoldenMasterTest.cs'" />
+    <option name="defaultScopeName" value="File '.../RockPaperScissors.MetaTest/GoldenMasterTest.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../RockPaperScissors/Game.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../RockPaperScissors.MetaTest/GoldenMasterTest.cs'" />
   </component>
 </application>
