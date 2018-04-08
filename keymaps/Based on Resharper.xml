@@ -1,21 +1,19 @@
 <keymap version="1" name="Based on Resharper" parent="Default for GNOME">
   <action id="Arrangement.Rule.Edit" />
-  <action id="CodeCleanup">
-    <keyboard-shortcut first-keystroke="ctrl alt g" />
-  </action>
+  <action id="AutoIndentLines" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
-  <action id="DatabaseView.SqlGenerator" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="GotoBookmark7" />
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
+  <action id="Haskell.GotoInstanceDeclaration" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
