@@ -10,6 +10,9 @@
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
