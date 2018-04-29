@@ -17,6 +17,9 @@
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl #10000b4" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
