@@ -10,5 +10,6 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.tooltip.show.with.actions" value="true" />
+    <entry key="ide.svg.icon" value="true" />
   </component>
 </application>
