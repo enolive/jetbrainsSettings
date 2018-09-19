@@ -16,7 +16,6 @@
   <action id="GotoBookmark7" />
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
-  <action id="Haskell.GotoInstanceDeclaration" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
