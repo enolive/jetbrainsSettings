@@ -1,5 +1,5 @@
 <application>
   <component name="HaskellConfiguration">
-    <option name="replTimeout" value="1" />
+    <option name="replTimeout" value="2" />
   </component>
 </application>
