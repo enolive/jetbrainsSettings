@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0" />
+    <option name="selectedTheme" value="SAYORI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="388e3c" />
+    <option name="accentColor" value="00bcd4" />
     <option name="useMaterialIcons" value="false" />
     <option name="useMaterialFont" value="false" />
     <option name="isDecoratedFolders" value="false" />
