@@ -4,7 +4,7 @@
     <property name="created">2017-02-04T09:49:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-08-04T15:28:02</property>
+    <property name="modified">2018-11-16T10:56:24</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -14,4 +14,24 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="5eb800" />
+    <option name="FILESTATUS_COPIED" value="5eb800" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="46da84" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="38e94d" />
+    <option name="FILESTATUS_MODIFIED" value="2d9f1a" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="2d9f1a" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="2d9f1a" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="6d8765" />
+    <option name="FILESTATUS_SWITCHED" value="38e94d" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="5eb800" />
+    <option name="FILESTATUS_modifiedOutside" value="b0dd3e" />
+  </colors>
 </scheme>

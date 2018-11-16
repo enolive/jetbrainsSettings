@@ -4,11 +4,35 @@
     <property name="created">2018-08-04T07:33:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-08-24T00:54:26</property>
+    <property name="modified">2018-11-16T10:56:03</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="cd368f" />
+    <option name="FILESTATUS_COPIED" value="cd368f" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="f36ec2" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="ed0091" />
+    <option name="FILESTATUS_MODIFIED" value="6e2759" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6e2759" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6e2759" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="a57498" />
+    <option name="FILESTATUS_SWITCHED" value="ed0091" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="cd368f" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="b846a1" />
+  </colors>
 </scheme>
