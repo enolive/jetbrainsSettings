@@ -28,7 +28,6 @@
   </action>
   <action id="Refresh" />
   <action id="ReplaceInPath" />
-  <action id="Rerun" />
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl l" />
   </action>
