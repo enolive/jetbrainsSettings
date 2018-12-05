@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JetCodeStyleSettings>
+    <option name="CONTINUATION_INDENT_FOR_CHAINED_CALLS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_IF_CONDITIONS" value="false" />
+  </JetCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
   </codeStyleSettings>
