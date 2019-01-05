@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>ArgumentMatchers.matches (org.mockito)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String").definedInClass("org.mockito.ArgumentMatchers"))]]></place>
+    </injection>
     <injection language="JSON" injector-id="java">
       <display-name>ContentResultMatchers.json (org.springframework.test.web.servlet.result)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("json").withParameters("java.lang.String").definedInClass("org.springframework.test.web.servlet.result.ContentResultMatchers"))]]></place>
