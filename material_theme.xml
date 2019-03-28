@@ -1,4 +1,9 @@
 <application>
+  <component name="MaterialDDLCThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="userId" value="506ba809:169c62aed36:-8000" />
+    <option name="version" value="3.1.1" />
+  </component>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0" />
     <option name="selectedTheme" value="SAYORI" />
