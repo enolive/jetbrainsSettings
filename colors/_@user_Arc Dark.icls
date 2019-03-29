@@ -4,7 +4,7 @@
     <property name="created">2019-03-28T22:38:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-29T01:20:56</property>
+    <property name="modified">2019-03-29T01:36:01</property>
     <property name="originalScheme">Arc Dark</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -617,8 +617,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cf6a4c" />
-        <option name="ERROR_STRIPE_COLOR" value="cf6a4c" />
+        <option name="EFFECT_COLOR" value="cf0014" />
+        <option name="ERROR_STRIPE_COLOR" value="cf0014" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
