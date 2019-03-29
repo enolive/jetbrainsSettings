@@ -4,7 +4,7 @@
     <property name="created">2019-03-28T22:38:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-29T01:36:01</property>
+    <property name="modified">2019-03-29T02:03:13</property>
     <property name="originalScheme">Arc Dark</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -41,7 +41,7 @@
     <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="262b33" />
-    <option name="INDENT_GUIDE" value="464b52" />
+    <option name="INDENT_GUIDE" value="3d6faa" />
     <option name="INFORMATION_HINT" value="262b33" />
     <option name="LINE_NUMBERS_COLOR" value="5c6066" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="afafb0" />
@@ -54,9 +54,9 @@
     <option name="QUESTION_HINT" value="262b33" />
     <option name="RECENT_LOCATIONS_SELECTION" value="2f343f" />
     <option name="RIGHT_MARGIN_COLOR" value="464b52" />
-    <option name="SELECTED_INDENT_GUIDE" value="5294e2" />
+    <option name="SELECTED_INDENT_GUIDE" value="3d6faa" />
     <option name="SELECTED_TEARLINE_COLOR" value="5294e2" />
-    <option name="SELECTION_BACKGROUND" value="444773" />
+    <option name="SELECTION_BACKGROUND" value="223d52" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_BELOW_COLOR" value="464b52" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="464b52" />

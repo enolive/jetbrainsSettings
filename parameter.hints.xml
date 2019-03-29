@@ -2,7 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="(*)" />
+      </blacklist>
       <blacklist language="Scala" />
       <blacklist language="JavaScript" />
       <blacklist language="Groovy" />
