@@ -4,7 +4,7 @@
     <property name="created">2019-03-28T22:38:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-28T23:43:11</property>
+    <property name="modified">2019-03-29T01:20:56</property>
     <property name="originalScheme">Arc Dark</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -730,7 +730,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="33e5d" />
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="93908f" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -790,8 +790,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="8f9d6a" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
+        <option name="EFFECT_COLOR" value="bc9f2a" />
+        <option name="ERROR_STRIPE_COLOR" value="7f6c1d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2647,16 +2647,16 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1a4237" />
-        <option name="EFFECT_COLOR" value="47bc9b" />
-        <option name="ERROR_STRIPE_COLOR" value="47bc9b" />
+        <option name="BACKGROUND" value="625316" />
+        <option name="EFFECT_COLOR" value="bc9f2a" />
+        <option name="ERROR_STRIPE_COLOR" value="bc9f2a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4a4d50" />
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="93908f" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
