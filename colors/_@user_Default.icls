@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T21:51:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-03-28T22:23:07</property>
+    <property name="modified">2019-04-02T23:30:17</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -31,4 +31,9 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="7ca031" />
   </colors>
+  <attributes>
+    <option name="HS_SYMBOL">
+      <value />
+    </option>
+  </attributes>
 </scheme>
