@@ -6,7 +6,9 @@
         <added pattern="(*)" />
       </blacklist>
       <blacklist language="Scala" />
-      <blacklist language="JavaScript" />
+      <blacklist language="JavaScript">
+        <added pattern="(*)" />
+      </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
