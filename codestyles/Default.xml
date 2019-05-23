@@ -28,6 +28,9 @@
       </groups>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
