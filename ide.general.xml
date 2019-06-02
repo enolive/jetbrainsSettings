@@ -10,6 +10,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.mac.disableMacScrollbars" value="false" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
