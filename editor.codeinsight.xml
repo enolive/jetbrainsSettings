@@ -10,4 +10,7 @@
     <option name="collapseAccessors" value="true" />
     <option name="collapseOneLineMethods" value="false" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
