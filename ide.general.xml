@@ -11,5 +11,6 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
