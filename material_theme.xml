@@ -1,16 +1,27 @@
 <application>
+  <component name="MaterialDDLCThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="userId" value="506ba809:169c62aed36:-8000" />
+    <option name="version" value="3.1.1" />
+  </component>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.0" />
-    <option name="selectedTheme" value="SAYORI" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="00bcd4" />
-    <option name="useMaterialIcons" value="false" />
-    <option name="useMaterialFont" value="false" />
-    <option name="isDecoratedFolders" value="false" />
+    <option name="codeAdditionsEnabled" value="false" />
     <option name="fileIcons" value="false" />
-    <option name="userId" value="f9920ad:1671be88070:-8000" />
-    <option name="isHighContrast" value="true" />
+    <option name="fileStatusColorsEnabled" value="false" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="f9920ad:1671be88070:-8000" />
+    <option name="version" value="3.8.0.2" />
   </component>
 </application>
