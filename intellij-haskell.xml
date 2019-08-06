@@ -1,5 +1,6 @@
 <application>
   <component name="HaskellConfiguration">
     <option name="replTimeout" value="2" />
+    <option name="newProjectTemplateName" value="https://raw.githubusercontent.com/enolive/haskell-templates/master/tdd.hsfiles" />
   </component>
 </application>
