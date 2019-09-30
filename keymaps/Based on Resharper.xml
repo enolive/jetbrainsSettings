@@ -15,7 +15,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt plus" />
   </action>
   <action id="GotoBookmark7" />
-  <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
