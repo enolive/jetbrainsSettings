@@ -13,6 +13,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("json").withParameters("java.lang.String").definedInClass("org.springframework.test.web.servlet.result.ContentResultMatchers"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
+      <display-name>ExampleObject.value (io.swagger.v3.oas.annotations.media)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("io.swagger.v3.oas.annotations.media.ExampleObject")]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
       <display-name>Parameter.example (io.swagger.v3.oas.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("example").withParameters().definedInClass("io.swagger.v3.oas.annotations.Parameter")]]></place>
     </injection>
