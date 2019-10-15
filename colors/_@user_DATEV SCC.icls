@@ -1,12 +1,10 @@
 <scheme name="_@user_DATEV SCC" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-06-03T23:10:06</property>
+    <property name="created">2019-09-30T20:11:23</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-10-15T23:31:06</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2019-09-30T20:16:48</property>
     <property name="originalScheme">DATEV SCC</property>
-    <property name="rainbow Default language">true</property>
-    <property name="rainbow JSON">false</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="2c24" />
@@ -16,8 +14,8 @@
     <option name="SELECTION_FOREGROUND" value="ffffff" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="b090" />
@@ -104,13 +102,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="211b" />
-      </value>
-    </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="3f8225" />
@@ -135,8 +129,9 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -146,7 +141,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="50350f" />
+        <option name="BACKGROUND" value="604012" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>

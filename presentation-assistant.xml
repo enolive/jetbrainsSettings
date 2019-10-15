@@ -1,0 +1,10 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap" />
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Based on Resharper" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
