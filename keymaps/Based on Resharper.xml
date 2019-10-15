@@ -57,6 +57,10 @@
   </action>
   <action id="ToggleBookmark7" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt #10000b4" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="hg4idea.QRefresh" />
