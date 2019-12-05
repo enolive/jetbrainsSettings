@@ -4,6 +4,7 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
