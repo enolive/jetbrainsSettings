@@ -15,7 +15,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt plus" />
   </action>
   <action id="GotoBookmark7" />
-  <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -56,8 +55,19 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark7" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt #10000b4" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="hg4idea.QRefresh" />
 </keymap>
