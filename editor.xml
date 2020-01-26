@@ -2,6 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
@@ -20,10 +22,6 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="TodoConfiguration">
