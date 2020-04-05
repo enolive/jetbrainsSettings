@@ -4,12 +4,19 @@
     <property name="created">2019-12-10T18:10:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-02-18T01:22:54</property>
+    <property name="modified">2020-04-05T03:24:16</property>
     <property name="originalScheme">DATEV SCC</property>
     <property name="rainbow JavaScript">true</property>
     <property name="rainbow TypeScript">true</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
