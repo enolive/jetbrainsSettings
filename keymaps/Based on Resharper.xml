@@ -14,6 +14,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl alt plus" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="GotoSuperMethod" />
   <action id="QuickChangeScheme">
