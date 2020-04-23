@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
