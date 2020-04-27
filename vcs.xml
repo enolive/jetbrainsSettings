@@ -46,6 +46,10 @@
           <option name="url" value="git@gitlab.com:datev/olymp/poc-classic-rz-connect/the-common-architecture/springboot-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:datev/olymp/poc-classic-rz-connect/springboot-with-angular-and-mongo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Coding/gitlab" />
