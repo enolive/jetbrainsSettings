@@ -20,6 +20,10 @@
       <display-name>Parameter.example (io.swagger.v3.oas.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("example").withParameters().definedInClass("io.swagger.v3.oas.annotations.Parameter")]]></place>
     </injection>
+    <injection language="HTML" injector-id="js">
+      <display-name>HTML in JS strings</display-name>
+      <place disabled="true"><![CDATA[isHtmlLikeText()]]></place>
+    </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>description</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("description"))]]></place>
