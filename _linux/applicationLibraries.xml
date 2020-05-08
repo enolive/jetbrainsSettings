@@ -8,6 +8,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="hello" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.simpleanalytics.io_hello.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.simpleanalytics.io_hello.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
