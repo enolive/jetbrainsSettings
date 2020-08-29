@@ -6,7 +6,6 @@
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="EditorAddOrRemoveCaret">
