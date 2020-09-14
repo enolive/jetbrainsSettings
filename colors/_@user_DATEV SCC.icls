@@ -1,24 +1,14 @@
 <scheme name="_@user_DATEV SCC" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-12-10T18:10:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-04-05T03:24:16</property>
+    <property name="modified">2020-07-14T19:37:13</property>
     <property name="originalScheme">DATEV SCC</property>
+    <property name="rainbow Default language">true</property>
     <property name="rainbow JavaScript">true</property>
     <property name="rainbow TypeScript">true</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Noto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2c24" />
     <option name="CONSOLE_BACKGROUND_KEY" value="121212" />
@@ -148,6 +138,7 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
