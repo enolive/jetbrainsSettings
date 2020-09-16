@@ -3,7 +3,7 @@
     <property name="created">2020-06-29T21:03:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-09T17:52:10</property>
+    <property name="modified">2020-09-16T22:00:34</property>
     <property name="originalScheme">IntelliJ Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -298,6 +298,11 @@
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="MARKDOWN_TABLE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="8c8c8c" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
