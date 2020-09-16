@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
@@ -17,6 +15,8 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Staticfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
