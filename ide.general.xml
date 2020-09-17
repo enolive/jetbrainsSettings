@@ -7,6 +7,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
-    <entry key="suggest.all.run.configurations.from.context" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
