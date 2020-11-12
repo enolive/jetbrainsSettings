@@ -422,8 +422,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
