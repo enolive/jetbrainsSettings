@@ -27,7 +27,6 @@
     <injection language="JSON" injector-id="kotlin">
       <display-name>JSON</display-name>
       <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("shouldMatchJson"))]]></place>
-      <place><![CDATA[kotlinParameter().withName("json")]]></place>
     </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>description</display-name>
