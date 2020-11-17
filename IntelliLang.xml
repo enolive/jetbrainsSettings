@@ -24,6 +24,10 @@
       <display-name>HTML in JS strings</display-name>
       <place disabled="true"><![CDATA[isHtmlLikeText()]]></place>
     </injection>
+    <injection language="JSON" injector-id="kotlin">
+      <display-name>JSON</display-name>
+      <place><![CDATA[receiver().withName("shouldMatchJson")]]></place>
+    </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>description</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("description"))]]></place>
