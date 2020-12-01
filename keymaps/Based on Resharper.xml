@@ -1,4 +1,7 @@
 <keymap version="1" name="Based on Resharper" parent="Default for GNOME">
+  <action id="ActivateKotestToolWindow">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
   <action id="CommentByBlockComment">
