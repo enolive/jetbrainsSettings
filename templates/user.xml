@@ -1,20 +1,18 @@
 <templateSet group="user">
-  <template name="Test.Fact" value="[Fact]&#10;public void $Scenario$Should$ExpectedResult$()&#10;{&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
-    <variable name="Scenario" expression="" defaultValue="ScenarioName" alwaysStopAt="true" />
-    <variable name="ExpectedResult" expression="" defaultValue="ExpectedResult" alwaysStopAt="true" />
+  <template name="describe" value="describe(&quot;$DESCRIPTION$&quot;) {&#10;  $END$&#10;}" description="Kotest describe block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HTML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JADE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it(&quot;$DESCRIPTION$&quot;) {&#10;  $END$&#10;}" description="Kotest it block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
