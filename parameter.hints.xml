@@ -13,6 +13,5 @@
       <blacklist language="Kotlin" />
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
-    <option id="SHOW_SUSPENDING_CALL" value="true" />
   </component>
 </application>

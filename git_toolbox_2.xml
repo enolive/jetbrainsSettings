@@ -1,6 +1,5 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="previousVersionMigrated" value="true" />
     <option name="version" value="3" />
   </component>
