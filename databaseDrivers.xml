@@ -6,19 +6,22 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="db2" name="DB2 (LUW)">
+    <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="db2.jtopen" name="DB2 (JTOpen)">
+    <driver id="db2.jtopen">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="derby.embedded" name="Derby (Embedded)">
+    <driver id="derby.embedded">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.remote" name="Derby (Remote)">
+    <driver id="derby.remote">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="exasol">
@@ -30,13 +33,7 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="h2.unified">
-      <artifact id="H2" name="H2" use="true" version="1.4.200" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hive">
       <option name="auto-sync" value="true" />
@@ -51,19 +48,13 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.8.2" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="sqlserver.ms" name="SQL Server (Microsoft)">
+    <driver id="sqlserver.ms">
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
-    <driver id="sqlserver.jtds" name="SQL Server (jTds)">
+    <driver id="sqlserver.jtds">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
@@ -71,27 +62,25 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql" name="MySQL">
+    <driver id="mysql">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.19">
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
       <option name="auto-sync" value="true" />
@@ -100,13 +89,13 @@
     <driver id="snowflake">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)">
+    <driver id="sqlite.xerial">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.ase" name="Sybase (Native)">
+    <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="vertica">
