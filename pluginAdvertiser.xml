@@ -2399,6 +2399,11 @@
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="ioKotest">
+                    <value>
+                      <FeaturePluginData displayName="Kotest" pluginName="Kotest" pluginId="kotest-plugin-intellij" />
+                    </value>
+                  </entry>
                   <entry key="js.build_tools.grunt">
                     <value>
                       <FeaturePluginData displayName="Grunt.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
