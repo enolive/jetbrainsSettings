@@ -1,0 +1,32 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>ArgumentMatchers.matches (org.mockito)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String").definedInClass("org.mockito.ArgumentMatchers"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>BodyContentSpec.json (org.springframework.test.web.reactive.server.WebTestClient)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("json").withParameters("java.lang.String").definedInClass("org.springframework.test.web.reactive.server.WebTestClient.BodyContentSpec"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>ContentResultMatchers.json (org.springframework.test.web.servlet.result)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("json").withParameters("java.lang.String").definedInClass("org.springframework.test.web.servlet.result.ContentResultMatchers"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>ExampleObject.value (io.swagger.v3.oas.annotations.media)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("io.swagger.v3.oas.annotations.media.ExampleObject")]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>Parameter.example (io.swagger.v3.oas.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("example").withParameters().definedInClass("io.swagger.v3.oas.annotations.Parameter")]]></place>
+    </injection>
+    <injection language="HTML" injector-id="js">
+      <display-name>HTML in JS strings</display-name>
+      <place disabled="true"><![CDATA[isHtmlLikeText()]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>description</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("description"))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="PowerModeII">
+    <option name="customBamImageFolder" value="$USER_HOME$" />
+    <option name="customFlameImageFolder" value="$USER_HOME$" />
+    <option name="flamesEnabled" value="false" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="soundsFolder" value="$USER_HOME$" />
+    <option name="sparksEnabled" value="false" />
+  </component>
+</application>
