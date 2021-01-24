@@ -29,6 +29,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.adoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.aidl">
           <value>
             <plugin>
@@ -89,6 +105,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asciidoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
@@ -257,6 +281,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -964,6 +989,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -981,6 +1007,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -989,6 +1016,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -997,6 +1025,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1005,6 +1034,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1013,6 +1043,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1021,6 +1052,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1960,6 +1992,14 @@
               <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
               <option name="myPluginName" value="YAML" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".asciidoctorconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
