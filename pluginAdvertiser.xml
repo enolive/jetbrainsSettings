@@ -1786,14 +1786,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key=".asciidoctorconfig">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
