@@ -17,7 +17,6 @@
         <Settings>
           <option name="functionReturnType" value="true" />
           <option name="localVariableType" value="true" />
-          <option name="parameterType" value="true" />
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.KotlinReferencesTypeHintsProvider>
