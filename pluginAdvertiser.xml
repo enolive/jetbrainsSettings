@@ -2766,6 +2766,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="KtorApplicationConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ktor" pluginName="Ktor" pluginId="intellij.ktor" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
