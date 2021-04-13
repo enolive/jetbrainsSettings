@@ -1,0 +1,9 @@
+<application>
+  <component name="Plugin-Config">
+    <option name="memeDisplayAnchorValue" value="BOTTOM_RIGHT" />
+    <option name="memeDisplayTimedDuration" value="30" />
+    <option name="soundEnabled" value="false" />
+    <option name="userId" value="1947a2c5-cda9-4241-877d-85ff0f45da59" />
+    <option name="version" value="0.8.2" />
+  </component>
+</application>
