@@ -1,6 +1,5 @@
 <application>
   <component name="Plugin-Config">
-    <option name="memeDisplayAnchorValue" value="CENTER" />
     <option name="memeDisplayTimedDuration" value="20" />
     <option name="soundEnabled" value="false" />
     <option name="userId" value="8bef0487-c1ee-4eee-963f-509d2862c63b" />
