@@ -1,7 +1,22 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java" />
+      <blacklist language="TypeScript">
+        <added pattern="test(*, *, *)" />
+      </blacklist>
+      <blacklist language="Java">
+        <added pattern="(*)" />
+      </blacklist>
+      <blacklist language="Scala" />
+      <blacklist language="JavaScript">
+        <added pattern="(*)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
     </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <disabledLanguages>
+      <language id="kotlin" />
+    </disabledLanguages>
   </component>
 </application>

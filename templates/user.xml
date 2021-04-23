@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="descr" value="describe(&quot;$DESCRIPTION$&quot;) {&#10;  $END$&#10;}" description="Kotest Describe Block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it(&quot;$DESCRIPTION$&quot;) {&#10;  $END$&#10;}" description="Kotest It Block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="test" value="test('$DESCR$', () =&gt; {&#10;  $END$&#10;});" description="Jest test block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
