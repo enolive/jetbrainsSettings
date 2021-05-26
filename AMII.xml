@@ -1,8 +1,7 @@
 <application>
   <component name="Plugin-Config">
-    <option name="memeDisplayTimedDuration" value="20" />
-    <option name="userId" value="8bef0487-c1ee-4eee-963f-509d2862c63b" />
-    <option name="version" value="0.9.2" />
+    <option name="userId" value="82a1f3ad-68d3-4b27-9936-9a76e367d6dc" />
+    <option name="version" value="0.10.2" />
   </component>
   <component name="Rider-Config">
     <option name="userId" value="6abf89a5-3ab0-4199-8131-15ea32bd99c2" />
