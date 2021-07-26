@@ -20,7 +20,7 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
     <settingsMapElement>
       <kotlin.KotlinReferencesTypeHintsProvider>
         <Settings>
@@ -30,6 +30,13 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.KotlinReferencesTypeHintsProvider>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
