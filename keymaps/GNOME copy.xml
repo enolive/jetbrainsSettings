@@ -1,4 +1,10 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateDependenciesToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateKotestToolWindow">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
