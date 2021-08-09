@@ -1,0 +1,5 @@
+<application>
+  <component name="HaskellConfiguration">
+    <option name="newProjectTemplateName" value="https://raw.githubusercontent.com/enolive/haskell-templates/master/tdd.hsfiles" />
+  </component>
+</application>
