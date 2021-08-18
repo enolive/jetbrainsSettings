@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="ActivateKotestToolWindow">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
