@@ -2,7 +2,6 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="$USER_HOME$" />
     <option name="customFlameImageFolder" value="$USER_HOME$" />
-    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="hotkeyHeatup" value="false" />
     <option name="isPowerIndicatorEnabled" value="false" />
