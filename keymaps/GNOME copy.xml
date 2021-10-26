@@ -39,4 +39,8 @@
   <action id="com.nowsprinting.intellij_mob.done" />
   <action id="com.nowsprinting.intellij_mob.next" />
   <action id="com.nowsprinting.intellij_mob.start" />
+  <action id="net.mamansoft.markowl.action.markdown.FormatTableAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
 </keymap>
