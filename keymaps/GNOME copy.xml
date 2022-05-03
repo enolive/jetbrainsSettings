@@ -1,4 +1,14 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="EmojiPicker.Open">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="GotoBookmark7" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
