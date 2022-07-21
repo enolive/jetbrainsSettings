@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".jqwik-database" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
