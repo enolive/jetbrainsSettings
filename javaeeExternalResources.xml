@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.cache/JetBrains/WebStorm2022.2/extResources/9b192256_xml.xsd" />
+    <resource url="https://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" location="$USER_HOME$/.cache/JetBrains/WebStorm2022.2/extResources/1ccb6db4_xliff-core-1.2-strict.xsd" />
+  </component>
+</application>
